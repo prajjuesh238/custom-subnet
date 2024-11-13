@@ -71,6 +71,7 @@ The Vault Contract securely manages ERC20 tokens. It allows for the safe deposit
 
 ## 🎉 You're All Set!
 
+
 You now have Avalanche CLI installed and configured, and your ERC20 and Vault contracts deployed. For further details, check out:
 
 - [Avalanche CLI Documentation](https://docs.avax.network)
